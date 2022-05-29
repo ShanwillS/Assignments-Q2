@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "lib": ["esnext", "dom"],
+      "module": "commonjs",
+      "outDir": "out",
+      "sourceMap": true
+    }
+  }
